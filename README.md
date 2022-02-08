@@ -1,1 +1,3 @@
-# counter-app
+# `Counter App`
+
+## Practice React App
